@@ -1,9 +1,9 @@
 package test
 
 import (
-	"github.com/Matias-Guevara/API-Rest-v2/internal/errors"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/accesslog"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/errors"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/accesslog"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	routing "github.com/go-ozzo/ozzo-routing/v2"
 	"github.com/go-ozzo/ozzo-routing/v2/content"
 	"github.com/go-ozzo/ozzo-routing/v2/cors"

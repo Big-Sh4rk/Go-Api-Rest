@@ -2,7 +2,7 @@ package auth
 
 import (
 	"context"
-	"github.com/Matias-Guevara/API-Rest-v2/internal/test"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/test"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/assert"
 	"net/http"

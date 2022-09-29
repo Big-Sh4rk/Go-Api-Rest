@@ -2,9 +2,9 @@ package album
 
 import (
 	"context"
-	"github.com/Matias-Guevara/API-Rest-v2/internal/entity"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/dbcontext"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/entity"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/dbcontext"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 )
 
 // Repository encapsulates the logic to access albums from the data source.

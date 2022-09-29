@@ -2,9 +2,9 @@ package auth
 
 import (
 	"context"
-	"github.com/Matias-Guevara/API-Rest-v2/internal/entity"
-	"github.com/Matias-Guevara/API-Rest-v2/internal/errors"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/entity"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/errors"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

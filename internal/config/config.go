@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	"github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/qiangxue/go-env"
 	"gopkg.in/yaml.v2"

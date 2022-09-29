@@ -1,9 +1,9 @@
 package album
 
 import (
-	"github.com/Matias-Guevara/API-Rest-v2/internal/errors"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/pagination"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/errors"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/pagination"
 	"github.com/go-ozzo/ozzo-routing/v2"
 	"net/http"
 )

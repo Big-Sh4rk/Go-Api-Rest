@@ -1,8 +1,8 @@
 package healthcheck
 
 import (
-	"github.com/Matias-Guevara/API-Rest-v2/internal/test"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/test"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	"net/http"
 	"testing"
 )

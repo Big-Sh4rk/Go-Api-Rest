@@ -2,8 +2,8 @@ package album
 
 import (
 	"context"
-	"github.com/Matias-Guevara/API-Rest-v2/internal/entity"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/entity"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"time"
 )

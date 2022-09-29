@@ -1,9 +1,9 @@
 package test
 
 import (
-	"github.com/Matias-Guevara/API-Rest-v2/internal/config"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/dbcontext"
-	"github.com/Matias-Guevara/API-Rest-v2/pkg/log"
+	"github.com/Big-Sh4rk/Go-Api-Rest/internal/config"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/dbcontext"
+	"github.com/Big-Sh4rk/Go-Api-Rest/pkg/log"
 	dbx "github.com/go-ozzo/ozzo-dbx"
 	_ "github.com/lib/pq" // initialize posgresql for test
 	"path"
